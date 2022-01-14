@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1757da98.css",
+    "main.js": "/static/js/main.1a02e4b0.js",
+    "static/js/787.e75e31a4.chunk.js": "/static/js/787.e75e31a4.chunk.js",
+    "static/media/voley.jpeg": "/static/media/voley.31f840134b407350f7b3.jpeg",
+    "static/media/futbol.jpeg": "/static/media/futbol.87cd04ac86411b1fb170.jpeg",
+    "static/media/tenis.jpeg": "/static/media/tenis.db3d687a45072ea63443.jpeg",
+    "static/media/fb-logo.png": "/static/media/fb-logo.193997c4b3b377b318e0.png",
+    "static/media/ig-logo.png": "/static/media/ig-logo.31e5ee56f77f60a2898a.png",
+    "index.html": "/index.html",
+    "main.1757da98.css.map": "/static/css/main.1757da98.css.map",
+    "main.1a02e4b0.js.map": "/static/js/main.1a02e4b0.js.map",
+    "787.e75e31a4.chunk.js.map": "/static/js/787.e75e31a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1757da98.css",
+    "static/js/main.1a02e4b0.js"
+  ]
+}
