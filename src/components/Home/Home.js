@@ -18,7 +18,7 @@ const Home = () => {
         <main className="container">
             <Carrousel/>
             <div className="container">
-            <div className="row">
+            <div className="row d-flex justify-content-between">
                 <h1 className="text-center mt-3 p-3">Nuestras canchas</h1>
                 {canchasList.length > 0 ?
                 canchasList.map((cancha) => (
