@@ -12,7 +12,7 @@ const Cancha = () => {
    
     //funcion para reservar la cancha
     const agregar = (cancha,hora) =>{
-        agregarreserva({...cancha, hora})
+        agregarreserva({...cancha, hora,reservaid:new Date().getTime()})
         toast.success(`Cancha ${cancha.nombre} reservada con éxito`)
     }
      ///funcion para cargas las canchas

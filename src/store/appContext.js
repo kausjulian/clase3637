@@ -41,7 +41,7 @@ useEffect(()=>{
 }, [reservas])
 
   return(
-    <CanchasContext.Provider value={{canchasList, setCanchasList,getCanchas, agregarreserva,reservas}}>
+    <CanchasContext.Provider value={{canchasList, setCanchasList,getCanchas, agregarreserva,reservas,setReservas}}>
         {children}
     </CanchasContext.Provider>
 );
